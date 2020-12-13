@@ -1,4 +1,4 @@
-# colling area
+# calling page!
 from decimal_to_other import  decimal_to
 from other_to_decimal import other_to_decimal
 inp = input("what's your Enter number:\n decimal:\n binary:\n octal:\n hexa :")
